@@ -3,13 +3,13 @@ vuejs-node-express-mysql
 
 CRUD simple for practice connect fron-end with back-end
 
-- f- ont-end: Vuejs 
+- front-end: Vuejs 
 
 - back-end: nodejs + expressjs
 
 - database: mysql
 
-- other:
+- boostrap + css for layout
 
 - use axios for make request and retrieve respone
 
